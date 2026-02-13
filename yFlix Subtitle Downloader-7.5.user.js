@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      7.5
 // @description  Hanya memunculkan popup subtitle di halaman /watch/
-// @author       Gemini
+// @author       Naufal453
 // @match        https://yflix.to/watch/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_download
