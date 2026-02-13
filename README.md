@@ -41,7 +41,7 @@ Atau, langsung kunjungi tautan instalasi jika script sudah di-hosting di reposit
 | Aspek | Detail |
 |-------|--------|
 | **Versi** | 7.5 |
-| **Author** | Gemini |
+| **Author** | Naufal453 |
 | **Kompatibel** | yflix.to |
 | **Format Output** | VTT |
 | **Bahasa Script** | JavaScript |
